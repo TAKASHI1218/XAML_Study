@@ -19,6 +19,7 @@ namespace XAML_Study
         public MainWindow()
         {
             InitializeComponent();
+            ResultLabel.Content = "1234";
         }
     }
 }
